@@ -7,6 +7,7 @@ This is a demo introduction.
 
 ## Purpose
 This is a demo purpose.
+New text from master.
 
 ## Deployment
 This is a deployment demo.
