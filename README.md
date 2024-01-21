@@ -13,4 +13,5 @@ This is a deployment demo.
 
 ## How to contribute?
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Added commits to readme.
