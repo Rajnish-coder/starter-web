@@ -3,8 +3,10 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+This is a demo introduction.
 
 ## Purpose
+This is a demo purpose.
 
 ## Deployment
 This is a deployment demo.
