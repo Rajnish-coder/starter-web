@@ -17,3 +17,4 @@ Working in rebase topic.
 
 Sample website with plenty of files for demos.
 Added commits to readme.
+@All rights reserved.
